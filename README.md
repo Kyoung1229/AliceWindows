@@ -1,1 +1,1 @@
-Nothing is special here: just python application with OpenAI API.
+Nothing is special here: just a python application with OpenAI API.
